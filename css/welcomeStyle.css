@@ -1,0 +1,149 @@
+*{
+  background: #FFFFFF;
+}
+
+.divisor{
+  position: relative;
+  background: #E4E4E4;
+  height: 4px; 
+  width: 98%;
+  margin: 6px 15px;
+}
+
+.topnav a{
+  height: 45px;
+  width: 190px;
+  margin: 2px 0px 2px 19px;
+  padding: 6px;
+  float: left;
+  background: #E4E4E4;
+
+  text-decoration: none;
+  font-family: Open Sans Hebrew;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 34px;
+  align-items: center;
+  text-align: center;
+  color: #000000; /*cor da fonte*/
+}
+
+.loginlink a{
+  float: right;
+  font-weight: bold;
+  background: #74B6E4;
+  color: #FFFFFF;
+}
+
+.cadastrolink a{
+  float: right;
+  font-weight: bold;
+  background: #3470BF;
+  color: #FFFFFF;
+}
+
+.main-facade{
+  height: 600px;
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.main-facade img{
+  height: auto;
+  margin: 50px ;
+}
+
+.ads{
+  height: 300px;
+}
+
+.ads p{
+  height: 150px;
+  margin-top: 75px;
+  width: 33%;
+  padding: 50px 100px;
+  display: inline-block;
+
+  font-family: Open Sans Hebrew;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 28px;
+  line-height: 48px;
+  align-items: center;
+  text-align: justify;
+}
+
+.about{
+  position: relative;
+  width: 85%;
+  height: 440px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  margin-left: 120px;
+}
+
+.about h2{
+  margin: 30px 0px;
+  font-family: Open Sans Hebrew;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 95px;
+  align-items: center;
+  text-align: justify;
+  color: #0038AB;
+}
+
+.about p{
+  margin: 0px 0px 30px 0px;
+  font-family: Open Sans Hebrew;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 48px;
+  align-items: center;
+  text-align: justify;
+  color: #8C8C8B;
+}
+
+.methodology{
+  position: relative;
+  width: 85%;
+  height: 700px;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  margin-left: 120px;
+}
+
+.methodology h2{
+  margin: 30px 0px;
+  font-family: Open Sans Hebrew;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 95px;
+  align-items: center;
+  text-align: justify;
+  color: #0038AB;
+}
+
+.img-centro{
+  display: inline-block;
+  margin-left: 560px;
+  margin-top: 70px;
+}
+
+.img-esquerda{
+  z-index: -1;
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 70px;
+}
+
+.img-direita{
+  z-index: -1;
+  display: inline-block;
+  margin-left: 1000px;
+  margin-top: 70px;
+}

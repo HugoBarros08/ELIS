@@ -84,7 +84,7 @@
 }
 
 .about h2{
-  margin: 30px 0px;
+  margin: 25px 0px;
   font-family: Open Sans Hebrew;
   font-style: normal;
   font-weight: 800;
@@ -112,12 +112,12 @@
   width: 85%;
   height: 700px;
   margin-top: 80px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   margin-left: 120px;
 }
 
 .methodology h2{
-  margin: 30px 0px;
+  margin: 25px 0px;
   font-family: Open Sans Hebrew;
   font-style: normal;
   font-weight: 800;
@@ -128,22 +128,33 @@
   color: #0038AB;
 }
 
-.img-centro{
-  display: inline-block;
-  margin-left: 560px;
-  margin-top: 70px;
+.methodology img{
+  margin-left: 250px;
+  margin-top: 50px;
 }
 
-.img-esquerda{
-  z-index: -1;
-  display: inline-block;
-  margin-left: 20px;
-  margin-top: 70px;
+.courses{
+  position: relative;
+  width: 85%;
+  height: 600px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  margin-left: 120px;
 }
 
-.img-direita{
-  z-index: -1;
-  display: inline-block;
-  margin-left: 1000px;
-  margin-top: 70px;
+.courses h2{
+  margin: 25px 0px;
+  font-family: Open Sans Hebrew;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 95px;
+  align-items: center;
+  text-align: justify;
+  color: #0038AB;
+}
+
+.courses img{
+  margin-left: 570px;
+  margin-top: 30px;
 }

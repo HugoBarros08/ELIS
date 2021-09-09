@@ -51,7 +51,7 @@
 
 .main-facade img{
   height: auto;
-  margin: 50px ;
+  margin: 50px;
 }
 
 .ads{
@@ -157,4 +157,53 @@
 .courses img{
   margin-left: 570px;
   margin-top: 30px;
+}
+
+.teste {
+  position: absolute;
+  width: 85%;
+  height: 1200px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  margin-left: 120px;
+}
+
+iframe {
+  width: 100vw;
+  height: 56.25vw;
+  max-height: 100vh;
+  max-width: 177.78vh;
+  margin: auto;
+  position: absolute;
+  top: 120px;
+  left: 0;
+  right: 0; 
+}
+
+@media screen and (min-width: 640px){
+  /*header{
+    height: 120px;
+  }*/
+  body{
+    height: 120px;
+  }
+  iframe{
+    top: 120px;
+  }
+}
+
+.contact {
+  position: absolute;
+  width: 85%;
+  height: 120px;
+  margin-top: 20px;
+  margin-bottom: 1px;
+  margin-left: 120px;
+}
+
+.contact img{
+  height: 100px;
+  margin-left: 660px;
+  margin-top: 1x;
+  margin-bottom: 1px;
 }
